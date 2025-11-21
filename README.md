@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* I am a backend developer using Go and Python
+* I am a developer using Go and Python
 * I am also proficient with [Dart and Flutter](https://www.udemy.com/certificate/UC-09ae78b4-39c8-4e17-a308-4a6fcd47fa33/)
 * I finished the backend developer career path on [Boot.dev]([https://](https://www.boot.dev/))
 * Feel free to contact me on [Linkedin](https://www.linkedin.com/in/johnson-razafimanantsoa-353916297/)
