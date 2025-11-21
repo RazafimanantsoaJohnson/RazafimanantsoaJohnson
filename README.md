@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Johnson Razafimanantsoa
 
 <!--
 **RazafimanantsoaJohnson/RazafimanantsoaJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* I am a backend developer using Go and Python
+* I am also proficient with Dart and Flutter
+* I finished the backend developer career path on [Boot.dev]([https://](https://www.boot.dev/))
+* Feel free to contact me on [Linkedin](https://www.linkedin.com/in/johnson-razafimanantsoa-353916297/)
